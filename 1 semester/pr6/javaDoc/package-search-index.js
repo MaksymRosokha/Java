@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.Rosokha"},{"l":"com.Rosokha.bl"},{"l":"com.Rosokha.dao.entity"},{"l":"com.Rosokha.Interface"}];updateSearchResults();
